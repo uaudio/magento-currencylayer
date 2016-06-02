@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Uaudio_CurrencyLayer>
+			<version>0.1.0</version>
+		</Uaudio_CurrencyLayer>
+	</modules>
+	<global>
+        <currency>
+            <import>
+                <services>
+                    <currencylayer>
+                        <name>Currency Layer</name>
+                        <model>uaudio_currencylayer/currency_import_currencylayer</model>
+                    </currencylayer>
+                </services>
+            </import>
+        </currency>
+		<models>
+			<uaudio_currencylayer>
+				<class>Uaudio_CurrencyLayer_Model</class>
+			</uaudio_currencylayer>
+		</models>
+	</global>
+</config>

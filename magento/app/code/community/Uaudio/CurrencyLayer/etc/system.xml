@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+    <sections>
+        <currency>
+            <groups>
+                <currency_layer translate="label">
+                    <label>Currency Layer</label>
+                    <sort_order>40</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>0</show_in_website>
+                    <show_in_store>0</show_in_store>
+                    <fields>
+                        <apikey translate="label">
+                            <label>Api Key</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>0</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>0</show_in_website>
+                            <show_in_store>0</show_in_store>
+                            <config_path>uaudio/currency_layer/access_key</config_path>
+                        </apikey>
+                    </fields>
+                </currency_layer>
+            </groups>
+        </currency>
+    </sections>
+</config>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category    Uaudio
+ * @package     Uaudio
+ * @author      eric@uaudio.com
+ */
+-->
+<config>
+    <modules>
+        <Uaudio_CurrencyLayer>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Uaudio_CurrencyLayer>
+    </modules>
+</config>
