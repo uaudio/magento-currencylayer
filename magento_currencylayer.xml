@@ -1,0 +1,85 @@
+<_>
+   <form_key>sjKTXVXLrnyj8pka</form_key>
+   <name>magento_currencylayer</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>Magento Currency Layer is an extension that updates currency rates using the currencylayer.com API</summary>
+   <description>Magento Currency Layer is an extension that updates currency rates using the currencylayer.com API</description>
+   <license>OSL</license>
+   <license_uri/>
+   <version>0.1.0</version>
+   <stability>beta</stability>
+   <notes>Initial Release</notes>
+   <authors>
+      <name>
+         <name>Universal Audio</name>
+      </name>
+      <user>
+         <user>cloud</user>
+      </user>
+      <email>
+         <email>cloud@uaudio.com</email>
+      </email>
+   </authors>
+   <depends_php_min>5.5.0.</depends_php_min>
+   <depends_php_max>5.6.13.</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <files>
+            <files>                   </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magecommunity</target>
+         <target>mage</target>
+      </target>
+      <path>
+         <path/>
+         <path>Uaudio/CurrencyLayer</path>
+         <path>app/etc/modules/Uaudio_CurrencyLayer.xml</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>
