@@ -1,5 +1,5 @@
 <_>
-   <form_key>sjKTXVXLrnyj8pka</form_key>
+   <form_key>kItAc3QmQa8V4GqY</form_key>
    <name>magento_currencylayer</name>
    <channel>community</channel>
    <version_ids>
@@ -24,7 +24,7 @@
       </email>
    </authors>
    <depends_php_min>5.5.0.</depends_php_min>
-   <depends_php_max>5.6.13.</depends_php_max>
+   <depends_php_max>7.2.0.</depends_php_max>
    <depends>
       <package>
          <name>
@@ -40,7 +40,7 @@
             <max/>
          </max>
          <files>
-            <files>                   </files>
+            <files>                    </files>
          </files>
       </package>
       <extension>
