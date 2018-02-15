@@ -9,7 +9,7 @@
    <description>Magento Currency Layer is an extension that updates currency rates using the currencylayer.com API</description>
    <license>OSL</license>
    <license_uri/>
-   <version>0.1.0</version>
+   <version>0.1.1</version>
    <stability>beta</stability>
    <notes>Initial Release</notes>
    <authors>
@@ -40,7 +40,7 @@
             <max/>
          </max>
          <files>
-            <files>                    </files>
+            <files>                      </files>
          </files>
       </package>
       <extension>
